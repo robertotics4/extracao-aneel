@@ -6275,15 +6275,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tnep00114\\.nuget\\packages\\": {}
+    "C:\\Users\\srobotizacao04\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "ExtracaoMicroGerador",
       "projectName": "ExtracaoMicroGerador",
-      "projectPath": "C:\\Users\\tnep00114\\Documents\\UiPath\\ExtracaoMicroGerador\\.local",
-      "packagesPath": "C:\\Users\\tnep00114\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tnep00114\\Documents\\UiPath\\ExtracaoMicroGerador\\.local"
+      "projectPath": "C:\\Users\\srobotizacao04\\Documents\\UiPath\\ExtracaoMicroGerador\\.local",
+      "packagesPath": "C:\\Users\\srobotizacao04\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\srobotizacao04\\Documents\\UiPath\\ExtracaoMicroGerador\\.local"
     },
     "frameworks": {
       "net461": {
@@ -6314,7 +6314,7 @@
             "version": "[21.6.1-preview, 21.6.1-preview]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\tnep00114\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\runtime.json"
       }
     }
   }
